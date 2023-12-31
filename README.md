@@ -9,7 +9,6 @@
    - 3.2 [Configuring IAM and OIDC](#configuring-iam-and-oidc)
    - 3.3 [Implementing ALB Ingress Controller](#implementing-alb-ingress-controller)
    - 3.4 [Deploying the 2048 Game Application](#deploying-the-2048-game-application)
-   - 3.5 [Sample App Deployment](#sample-app-deployment)
 4. [Conclusion](#conclusion)
 
 # AWS EKS Deployment of Real-Time 2048 Game Using Fargate
@@ -46,9 +45,6 @@ Deploying the ALB (Application Load Balancer) Ingress Controller is a pivotal st
 
 This phase includes the deployment of the 2048 game using Kubernetes resources managed by AWS Fargate. A Fargate profile is created for the game deployment, followed by the setup of necessary Kubernetes resources such as Deployments, Services, and Ingress. This demonstrates deploying and managing a real-time application in a cloud-native environment effectively.
 
-### Sample App Deployment
-
-In addition to the 2048 game, the project also involves deploying a sample Linux-based application. This demonstrates the flexibility of EKS and Fargate in handling various types of workloads and the ability to cater to a wide range of application requirements.
 
 ## Conclusion
 
