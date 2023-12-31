@@ -48,3 +48,8 @@ Additionally, the project encompasses deploying a sample Linux-based application
 ## Conclusion
 
 This project highlights key aspects of deploying and managing applications on AWS EKS using Fargate and the AWS Load Balancer Controller. It underscores the integration of cloud-native technologies with Kubernetes, emphasizing scalability, ease of management, and operational efficiency in a DevOps environment.
+
+
+
+https://github.com/EfthimiosVlahos/EKS-Fargate-2048-Orchestration/assets/56899588/4064236a-e2eb-4044-af45-02774709ef64
+
